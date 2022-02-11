@@ -4,7 +4,7 @@
 menu:
 - {name: 'Contenido', url: ''}
 - {name: 'Blog',     url: 'blog'}
-- {name: 'Acerca de',    url: 'acerca'}
+- {name: 'Acerca de',    url: 'about'}
 - {name: 'Contacto',  url: 'contact'}
 
 #-------------------------------
