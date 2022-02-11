@@ -4,8 +4,8 @@
 menu:
 - {name: 'Contenido', url: ''}
 - {name: 'Blog',     url: 'blog'}
-- {name: 'Acerca de',    url: 'about'}
-- {name: 'Contacto',  url: 'contact'}
+- {name: 'Acerca de',    url: 'acercade'}
+- {name: 'Contacto',  url: 'contacto'}
 
 #-------------------------------
 # Projects Section
