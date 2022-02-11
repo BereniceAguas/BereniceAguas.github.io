@@ -23,7 +23,6 @@ projects:
 social:
 - {icon: 'twitter',   link: 'https://twitter.com/dempskars'}
 - {icon: 'instagram', link: 'https://instagram.com/dempskars'}
-- {icon: 'envelope',  link: 'dempskars@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
