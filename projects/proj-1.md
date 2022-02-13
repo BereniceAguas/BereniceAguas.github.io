@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Inicia la semana de la moda en Nueva York'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
-
+Arranca la semana más esperada para los amantes de la moda y marcas importantes desde el 11 al 16 de febrero del año 2022.  
+Pese a las restricciones sanitarias impuestas por el SARS-CoV-2 se podrá llevar a cabo los desfiles, dando la oportunidad al publico de asistir a los eventos organizados por las industrias de la moda. Hecha un vistazo al calendario para no perderte las nuevas tendencias que harán cambiar tu closet. 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
