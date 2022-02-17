@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 'Project Three'
+title: 'Nueva portada de la Revista GQ'
 ---
-
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+![image](https://user-images.githubusercontent.com/98058262/154495568-c58ac41d-f0ce-455b-8026-ce0e85fce760.png)
+![image](https://user-images.githubusercontent.com/98058262/154495604-facf0c1e-8319-415f-9cf0-c8a770f17d5b.png)
+![image](https://user-images.githubusercontent.com/98058262/154495641-30eefd5b-3f22-46e8-a18f-aa477487041e.png)
+![image](https://user-images.githubusercontent.com/98058262/154495681-5d4ac5b0-511c-4f26-85d4-3173b9ae3bec.png)
+![image](https://user-images.githubusercontent.com/98058262/154495812-a44ab0e8-2ad0-44a6-a523-fce5983729f1.png)
+![image](https://user-images.githubusercontent.com/98058262/154495832-3678cc46-6768-41db-9699-44825729b1c1.png)
