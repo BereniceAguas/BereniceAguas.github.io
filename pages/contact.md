@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Contact
-permalink: /contact
+title: Contacto
+permalink: /contacto
 ---
 
-# Contact
+# Contacto
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+Sí quieres conocer las nuevas tendencias que harán cambiar tu closet hecha un vistazo en nuestras redes sociales.
+Twitter: https://twitter.com/dempskars
+Instagram: https://www.instagram.com/dempskars/
