@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /acercade
+title: Acerca de
+permalink: /about
 ---
 
 # Dempskars
