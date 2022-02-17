@@ -5,4 +5,4 @@ permalink: /about
 ---
 
 # Dempskars
-Dempskars es una plataforma social que publica contenido de la la industria de la moda, últimas tendencias y portadas en las que posan diferentes modelos. 
+Dempskars es una plataforma social que publica contenido de la industria de la moda, últimas tendencias, portadas en las que posan diferentes modelos, actrices o actores y cantantes. 
