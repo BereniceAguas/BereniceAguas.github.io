@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Semana de la moda en Nueva York Febrero 2022'
+title: 'Semana de la moda Nueva York Febrero 2022'
 ---
 ![image](https://user-images.githubusercontent.com/98058262/154402566-e21055fe-e1da-4394-9cdc-0062d039f3bf.png)
 ![image](https://user-images.githubusercontent.com/98058262/154402712-c5c070d4-defe-4446-b731-317fc414958b.png)
