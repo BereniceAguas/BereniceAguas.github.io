@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VERSACEcolección primavera/verano 2022'
+title: 'VERSACE colección primavera/verano 2022'
 ---
 ![image](https://user-images.githubusercontent.com/98058262/154403528-2d781d37-cfc0-4d08-bfcd-2c7cb38e333a.png)
 ![image](https://user-images.githubusercontent.com/98058262/154403545-b9bc6b07-8f7f-4a7e-8ee1-62b06440e2a6.png)
